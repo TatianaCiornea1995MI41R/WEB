@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="ro">
+	<head>
+		<title>Contacte-IMSP „Spitalul Raional Edinet</title>
+		<link rel="stylesheet" href="site.css">
+		<link href="img/cr_r.ico" rel="shortcut icon" type="image/x-icon">
+	</head>
+	<body>
+		<header>
+				<div class="titlu">
+			<h1>IMSP
+				<br> 
+			„Spitalul Raional Edinet” <br></h1>
+		</div>
+	</header>
+	
+		<nav>
+		<a class="navbar" href="index.html">Acasă</a>
+		<a class="navbar" href="news.html">Medici</a>
+		<a class="navbar" href="video.html">Video</a>
+		<a class="navbar" href="photos.html">Foto</a>
+		<a class="navbar" href="contact.html">Contacte</a>
+		<a class="navbar" href="localstorage.html">Registrare</a>
+		</nav>
+		
+		<aside>
+			<header>Date generale </header>
+			<p> <br> Adresa: or. Edineț, șos. Bucovinei 1 <br>
+Tel.: 024622448 <br>
+Fax: 024623502 <br>
+E-mail: sredinet@ms.md  <br>
+Clinici universitare:Nu <br>
+Tip spital: Public <br>
+Categoria: Secundar <br>
+Acreditat: Da <br>
+Departament medicină de urgență: Nu <br>
+Ambulatoriu:Da <br>
+Nivelul centrului perinatal: 2 <br>
+Consiliul administrativ pe pagina web: Nu <br>
+Rapoartele financiare pe pagina web: Nu <br>
+
+</p>
+		</aside>
+		<section>
+		 <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      html, body, #map-canvas {
+        height: 50%;
+        margin: 0px;
+        padding: 0px
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+
+    <script>
+
+var map;
+
+function initialize() {
+  var mapOptions = {
+    zoom: 6
+  };
+  map = new google.maps.Map(document.getElementById('map-canvas'),
+      mapOptions);
+
+  
+  if(navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(function(position) {
+      var pos = new google.maps.LatLng(position.coords.latitude,
+                                       position.coords.longitude);
+	var pos1 = new google.maps.LatLng(48.1833961, 27.2959878);
+
+      var infowindow = new google.maps.InfoWindow({
+        map: map,
+        position: pos,
+        content: 'Esti aici!'
+      });
+
+      var infowindow = new google.maps.InfoWindow({
+        map: map,
+        position: pos1,
+        content: 'Hospital!'
+      });
+      map.setCenter(pos);
+    }, function() {
+      handleNoGeolocation(true);
+    });
+  } else {
+    // Browser nu suportă Geolocation
+    handleNoGeolocation(false);
+  }
+}
+
+function handleNoGeolocation(errorFlag) {
+  if (errorFlag) {
+    var content = 'Eroare: Serviciul geolocalizare a eșuat.';
+  } else {
+    var content = 'Eroare: browserul dvs nu permite geolocalizare.';
+  }
+
+  var options = {
+    map: map,
+    position: new google.maps.LatLng(60, 105),
+    content: content
+  };
+
+  var infowindow = new google.maps.InfoWindow(options);
+  map.setCenter(options.position);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+  </section>
+		<footer>Designed by Tatiana Dovbus <br> USARB 2018-2019</footer>		
+	</body>
+</html>
