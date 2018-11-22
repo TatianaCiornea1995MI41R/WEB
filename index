@@ -1,0 +1,462 @@
+<!doctype html>
+<html lang="ro">
+	<head>
+		<title>IMSP SR Edinet</title>
+		<link rel="stylesheet" href="site.css">
+		<link href="img/cr_r.ico" rel="shortcut icon" type="image/x-icon">
+	</head>
+	<body>
+		<header>
+				<div class="titlu">
+			<h1>IMSP
+				<br> 
+			„Spitalul Raional Edinet” <br></h1>
+		</div>
+	</header>
+	
+		<nav>
+		<a class="navbar" href="index.html">Acasă</a>
+		<a class="navbar" href="news.html">Medici</a>
+		<a class="navbar" href="video.html">Video</a>
+		<a class="navbar" href="photos.html">Foto</a>
+		<a class="navbar" href="contact.html">Contacte</a>
+		<a class="navbar" href="localstorage.html">Registrare</a>
+		</nav>
+		
+		<aside>
+			<header>Date generale </header>
+			<p> <br> Adresa: or. Edineț, șos. Bucovinei 1 <br>
+Tel.: 024622448 <br>
+Fax: 024623502 <br>
+E-mail: sredinet@ms.md  <br>
+Clinici universitare:Nu <br>
+Tip spital: Public <br>
+Categoria: Secundar <br>
+Acreditat: Da <br>
+Departament medicină de urgență: Nu <br>
+Ambulatoriu:Da <br>
+Nivelul centrului perinatal: 2 <br>
+Consiliul administrativ pe pagina web: Nu <br>
+Rapoartele financiare pe pagina web: Nu <br>
+
+</p>
+		</aside>
+		<section>
+		<br>
+			 &nbsp;&nbsp;&nbsp;Spitalul raional Edineţ şi-a început activitatea din luna aprilie 1944. Activau un medic, o moaşă, şi 3 asistente medicale. Aceste persoane au fost primele care au început lucrul pe baze obşteşti, fără recompensă din luna aprilie pînă în iulie cînd au fost numite în funcţie prin ordin. În iulie se mai numesc în funcţie 5 infirmiere, o bucătărească şi un căruţaş. Cadrele sus numite în condiţii grele de război şi după război cu multă dăruire de sine, curaj, mărinimie au stat la bazele funcţionării spitalului din Edineţ. 
+			<br>
+			&nbsp;&nbsp;&nbsp; Era amplasat spitalul în centrul oraşului într-o clădire cu un etaj. În 1947 au fost deschise secţiile: terapia, chirurgia, secţia de copii, maternitatea. În anul 1958 spitalul activa pe 150 paturi, 5 profiluri: chirurgie, terapia, secţia de copii, maternitatea şi secţia boli infecţioase.  În anul 1971 a fost dat în exploatare un bloc tip cu 3 etaje, unde au fost transferate secţiile: chirurgia, traumatologia, maternitatea, terapia generală, secţia de copii şi secţia de internare; blocul alimentar, clădire cu 2 etaje a administraţiei spitalului, blocul tip pentru s.boli nfecţioase, clădire cu un etaj pentru secţia ORL-oftalmologie şi dermatovenerologie şi clădirea pentru morgă. 
+			<br>
+			&nbsp;&nbsp;&nbsp;Bazele Nursingului în SR Edineţ au fost puse în anul 1994 de asistenta principală dna Piguleac Lilia. Pe parcursul anilor în sistemul de sănătate s-au produs multe schimbări în favoarea lucrătorilor medicali cu studii medii. Sprerăm pe viitor să se îmbunătăţească condiţiile de lucru pentru a îmbunătăţi şi indicii calităţii acordării serviciilor medicale.
+			<br>
+			&nbsp;&nbsp;&nbsp;IMSP Spitalul raional Edineţ este mandatat cu urmatoarele  atribuții functionale:
+<br>a) prestarea serviciilor medicale în cadrul asigurării obligatorii de asistenta     medicala în conformitate cu contractele încheiate cu Compania Națională de Asigurări în Medicina și cu actele normative în vigoare;
+<br>b) prestarea serviciilor medicale în cadrul asigurărilor medicale facultative în conformitate cu clauzele contractuale și prevederile legale;
+<br>c) prestarea de servicii medicale contra plata, în baza actelor normative în vigoare.
+		<div class="extern_link">
+			<a href="http://sr-edinet.ms.md/" target="_blank">RAION HOSPITAL</a>
+			<br>
+			<a href="http://msmps.gov.md/" target="_blank">MINISTERUL SANATATII</a>
+			<br>
+			<a href="http://www.e-sanatate.md/Spitale/Clasament/SpitalDetails?id=14" target="_blank">E-SĂNĂTATE</a>
+		</div>
+		<div class="mplayer">
+			<audio controls autoplay loop>
+				<source src="hippocrate.mp3" type="audio/mpeg">
+				Your browser does not support the audio element.
+			</audio>
+
+		</div>
+		<div class="click">
+				<button class="button1" onclick="splay()"> Play </button>
+				<button class="button2" onclick="spause()"> Pause </button>
+			</div>
+		<script type="text/javascript">
+			function splay() {
+			var vid=document.getElementsByTagName("audio")[0];
+			vid.play();
+			}
+			function spause() {
+			var vid=document.getElementsByTagName("audio")[0];
+			vid.pause();
+			}
+		</script>
+	
+		</section>
+		<footer>Designed by Tatiana Dovbus <br> USARB 2018-2019</footer>		
+	</body>
+</html>
+<!doctype html>
+<html lang="ro">
+	<head>
+		<title>FOTO-IMSP „Spitalul Raional Edinet</title>
+		<link rel="stylesheet" href="site.css">
+		<link href="img/cr_r.ico" rel="shortcut icon" type="image/x-icon">
+	</head>
+	<body>
+		<header>
+				<div class="titlu">
+			<h1>IMSP
+				<br> 
+			„Spitalul Raional Edinet” <br></h1>
+		</div>
+	</header>
+	
+		<nav>
+		<a class="navbar" href="index.html">Acasă</a>
+		<a class="navbar" href="news.html">Medici</a>
+		<a class="navbar" href="video.html">Video</a>
+		<a class="navbar" href="photos.html">Foto</a>
+		<a class="navbar" href="contact.html">Contacte</a>
+		<a class="navbar" href="localstorage.html">Registrare</a>
+		</nav>
+		
+		<aside>
+			<header>Date generale </header>
+			<p> <br> Adresa: or. Edineț, șos. Bucovinei 1 <br>
+Tel.: 024622448 <br>
+Fax: 024623502 <br>
+E-mail: sredinet@ms.md  <br>
+Clinici universitare:Nu <br>
+Tip spital: Public <br>
+Categoria: Secundar <br>
+Acreditat: Da <br>
+Departament medicină de urgență: Nu <br>
+Ambulatoriu:Da <br>
+Nivelul centrului perinatal: 2 <br>
+Consiliul administrativ pe pagina web: Nu <br>
+Rapoartele financiare pe pagina web: Nu <br>
+
+</p>
+		</aside>
+		<section>
+			<img class="gimi" src="img/corpadministrativ.jpg"> 
+		<figcaption>Corp administrativ</figcaption> 
+		<img class="gimi" src="img/planul.jpg"> 
+		<figcaption>Planul spitalului</figcaption> 
+		<img class="gimi" src="img/intrare.jpg"> 
+		<figcaption>Intrare</figcaption>
+		<img class="gimi" src="img/saladeoperatii.jpg"> 
+		<figcaption>Sala de operații după reparație capitală</figcaption>
+		<img class="gimi" src="img/director.jpg"> 
+		<figcaption>Director IMSP SR Edineț Guțu Anatolie</figcaption>
+		<img class="gimi" src="img/sectiadeprimire.jpg"> 
+		<figcaption>Secția de internare</figcaption>
+		<img class="gimi" src="img/reparatii.jpg"> 
+		<figcaption>Reparatii capitale în blocul 2</figcaption>
+		<img class="gimi" src="img/saladeproceduri.jpg">
+		<figcaption class="ltm">Sala de proceduri din secția Îngriiri paliative</figcaption>
+		</section>
+		<footer>Designed by Tatiana Dovbus <br> USARB 2018-2019</footer>		
+	</body>
+</html>
+<!doctype html>
+<html lang="ro">
+	<head>
+		<title>Video-IMSP „Spitalul Raional Edinet</title>
+		<link rel="stylesheet" href="site.css">
+		<link href="img/cr_r.ico" rel="shortcut icon" type="image/x-icon">
+	</head>
+	<body>
+		<header>HEADER</header>
+		<nav>
+		<a class="navbar" href="index.html">Acasă</a>
+		<a class="navbar" href="news.html">Medici</a>
+		<a class="navbar" href="video.html">Video</a>
+		<a class="navbar" href="photos.html">Foto</a>
+		<a class="navbar" href="contact.html">Contacte</a>
+		<a class="navbar" href="localstorage.html">Registrare</a>
+		</nav>
+		<aside>
+			<header>Date generale </header>
+			<p> <br> Adresa: or. Edineț, șos. Bucovinei 1 <br>
+Tel.: 024622448 <br>
+Fax: 024623502 <br>
+E-mail: sredinet@ms.md  <br>
+Clinici universitare:Nu <br>
+Tip spital: Public <br>
+Categoria: Secundar <br>
+Acreditat: Da <br>
+Departament medicină de urgență: Nu <br>
+Ambulatoriu:Da <br>
+Nivelul centrului perinatal: 2 <br>
+Consiliul administrativ pe pagina web: Nu <br>
+Rapoartele financiare pe pagina web: Nu <br>
+
+</p>
+		</aside>
+		<section> 
+    <ul class="video-galery"> 
+   <li> 
+   <iframe width="470" height="300" src="https://www.youtube.com/embed/C1Vq0q6n8g4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+   </li>
+   <li>
+   <iframe width="470" height="300" src="https://www.youtube.com/embed/MmXzsZY2MsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <li>
+   <iframe width="470" height="300" src="https://www.youtube.com/embed/N-Wen0YqAr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</li> 
+   <li> 
+   <iframe width="470" height="300" src="https://www.youtube.com/embed/snKwylzu7mI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </li> 
+   <li> 
+   <iframe width="470" height="300" src="https://www.youtube.com/embed/9zJPrAe9S_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </li> 
+   <li> 
+   <iframe width="470" height="300" src="https://www.youtube.com/embed/qPZqhiZhtS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </li> 
+   
+   </ul> 
+  </section>
+		<footer>Designed by Tatiana Dovbus <br> USARB 2018-2019</footer>
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="site.css">
+	<link href="img/cr_r.ico" rel="shortcut icon" type="image/x-icon">
+    <title>Medici-IMSP „Spitalul Raional Edinet</title>
+	 
+</head>
+<body>
+	<header>
+		
+		<div class="titlu">
+			<h1>IMSP
+				<br> 
+			„Spitalul Raional Edinet” <br><br><br></h1>
+		</div>
+	</header>
+	<nav>
+		<a class="navbar" href="index.html">Acasă</a>
+		<a class="navbar" href="news.html">Medici</a>
+		<a class="navbar" href="video.html">Video</a>
+		<a class="navbar" href="photos.html">Foto</a>
+		<a class="navbar" href="contact.html">Contacte</a>
+		<a class="navbar" href="localstorage.html">Registrare</a>
+	</nav>
+	<aside>
+			<header>Date generale </header>
+			<p> <br> Adresa: or. Edineț, șos. Bucovinei 1 <br>
+Tel.: 024622448 <br>
+Fax: 024623502 <br>
+E-mail: sredinet@ms.md  <br>
+Clinici universitare:Nu <br>
+Tip spital: Public <br>
+Categoria: Secundar <br>
+Acreditat: Da <br>
+Departament medicină de urgență: Nu <br>
+Ambulatoriu:Da <br>
+Nivelul centrului perinatal: 2 <br>
+Consiliul administrativ pe pagina web: Nu <br>
+Rapoartele financiare pe pagina web: Nu <br>
+
+</p>
+		</aside>
+	<section>
+		<div class="w1w">
+			<img class="nn" src="img/1d.jpg">
+			<div class="new">
+				<h2>Dr. Theodor Cebotaru</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp;Dr. Theodor Cebotaru, șef de secție Chirurgie cardiacă la Cardiac Center din cadrul SR Edinet, are cea mai mare experiență din Moldova în intervențiile pe cord bătând și plastia de valvă mitrală.</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/2d.jpg">
+			<div class="new">
+				<h2>Elena Briceag</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; șefa Secției Laboratorului clinico-biochimic, medic laborant, categorie superioară</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/3d.jpg">
+			<div class="new">
+				<h2>Ălina Bejan</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp;Vicedirector pe probleme obstetrical-ginecologice, medic obstetrician-ginecolog, categorie superioară</p>
+			</div>
+			</div>
+			<div class="w1w">
+			<img class="nn" src="img/4d.jpg">
+			<div class="new">
+				<h2>Dona Bobuţac</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Șefa Cabinetului transfuzia sângelui.</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/5d.jpg">
+			<div class="new">
+				<h2>Ala Cerbadji</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Șefa Secției morfopatologie, medic morfopatolog, categorie superioară</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/6d.jpg">
+			<div class="new">
+				<h2>Gheorghe Găină</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Medic anesteziolog-reanimatolog</p>
+			</div>
+			</div>
+			<div class="w1w">
+			<img class="nn" src="img/7d.jpg">
+			<div class="new">
+				<h2>Melania Răilean</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp;Medic neuro-pediatru, categorie superioară</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/8d.jpg">
+			<div class="new">
+				<h2>Andrei Șcureac</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Medic chirurg</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/9d.jpg">
+			<div class="new">
+				<h2>Victor Prilipco</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Șeful Secției UPUS a serviciului chirurgical-somatic, medic internist, categorie superioară</p>
+			</div>
+			</div>
+			<div class="w1w">
+			<img class="nn" src="img/10d.jpg">
+			<div class="new">
+				<h2>Constantin Ostrofeţ</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Șeful Secției recuperare și fizioterapie, medic fizioterapeut, categorie superioară</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/11d.jpg">
+			<div class="new">
+				<h2>Larisa Potacevschi</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Șefa Secției farmacie, farmacist, categorie superioară</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/12d.jpg">
+			<div class="new">
+				<h2>Vasilii Guzun</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Medic terapeut categorie superioară</p>
+			</div>
+		</div>
+	</section>
+</body>
+</html>
+<!doctype html>
+<html lang="ro">
+	<head>
+		<title>Contacte-IMSP „Spitalul Raional Edinet</title>
+		<link rel="stylesheet" href="site.css">
+		<link href="img/cr_r.ico" rel="shortcut icon" type="image/x-icon">
+	</head>
+	<body>
+		<header>
+				<div class="titlu">
+			<h1>IMSP
+				<br> 
+			„Spitalul Raional Edinet” <br></h1>
+		</div>
+	</header>
+	
+		<nav>
+		<a class="navbar" href="index.html">Acasă</a>
+		<a class="navbar" href="news.html">Medici</a>
+		<a class="navbar" href="video.html">Video</a>
+		<a class="navbar" href="photos.html">Foto</a>
+		<a class="navbar" href="contact.html">Contacte</a>
+		<a class="navbar" href="localstorage.html">Registrare</a>
+		</nav>
+		
+		<aside>
+			<header>Date generale </header>
+			<p> <br> Adresa: or. Edineț, șos. Bucovinei 1 <br>
+Tel.: 024622448 <br>
+Fax: 024623502 <br>
+E-mail: sredinet@ms.md  <br>
+Clinici universitare:Nu <br>
+Tip spital: Public <br>
+Categoria: Secundar <br>
+Acreditat: Da <br>
+Departament medicină de urgență: Nu <br>
+Ambulatoriu:Da <br>
+Nivelul centrului perinatal: 2 <br>
+Consiliul administrativ pe pagina web: Nu <br>
+Rapoartele financiare pe pagina web: Nu <br>
+
+</p>
+		</aside>
+		<section>
+		 <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      html, body, #map-canvas {
+        height: 50%;
+        margin: 0px;
+        padding: 0px
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+
+    <script>
+
+var map;
+
+function initialize() {
+  var mapOptions = {
+    zoom: 6
+  };
+  map = new google.maps.Map(document.getElementById('map-canvas'),
+      mapOptions);
+
+  
+  if(navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(function(position) {
+      var pos = new google.maps.LatLng(position.coords.latitude,
+                                       position.coords.longitude);
+	var pos1 = new google.maps.LatLng(48.1833961, 27.2959878);
+
+      var infowindow = new google.maps.InfoWindow({
+        map: map,
+        position: pos,
+        content: 'Esti aici!'
+      });
+
+      var infowindow = new google.maps.InfoWindow({
+        map: map,
+        position: pos1,
+        content: 'Hospital!'
+      });
+      map.setCenter(pos);
+    }, function() {
+      handleNoGeolocation(true);
+    });
+  } else {
+    // Browser nu suportă Geolocation
+    handleNoGeolocation(false);
+  }
+}
+
+function handleNoGeolocation(errorFlag) {
+  if (errorFlag) {
+    var content = 'Eroare: Serviciul geolocalizare a eșuat.';
+  } else {
+    var content = 'Eroare: browserul dvs nu permite geolocalizare.';
+  }
+
+  var options = {
+    map: map,
+    position: new google.maps.LatLng(60, 105),
+    content: content
+  };
+
+  var infowindow = new google.maps.InfoWindow(options);
+  map.setCenter(options.position);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+  </section>
+		<footer>Designed by Tatiana Dovbus <br> USARB 2018-2019</footer>		
+	</body>
+</html>
