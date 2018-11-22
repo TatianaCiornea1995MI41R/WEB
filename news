@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="site.css">
+	<link href="img/cr_r.ico" rel="shortcut icon" type="image/x-icon">
+    <title>Medici-IMSP „Spitalul Raional Edinet</title>
+	 
+</head>
+<body>
+	<header>
+		
+		<div class="titlu">
+			<h1>IMSP
+				<br> 
+			„Spitalul Raional Edinet” <br><br><br></h1>
+		</div>
+	</header>
+	<nav>
+		<a class="navbar" href="index.html">Acasă</a>
+		<a class="navbar" href="news.html">Medici</a>
+		<a class="navbar" href="video.html">Video</a>
+		<a class="navbar" href="photos.html">Foto</a>
+		<a class="navbar" href="contact.html">Contacte</a>
+		<a class="navbar" href="localstorage.html">Registrare</a>
+	</nav>
+	<aside>
+			<header>Date generale </header>
+			<p> <br> Adresa: or. Edineț, șos. Bucovinei 1 <br>
+Tel.: 024622448 <br>
+Fax: 024623502 <br>
+E-mail: sredinet@ms.md  <br>
+Clinici universitare:Nu <br>
+Tip spital: Public <br>
+Categoria: Secundar <br>
+Acreditat: Da <br>
+Departament medicină de urgență: Nu <br>
+Ambulatoriu:Da <br>
+Nivelul centrului perinatal: 2 <br>
+Consiliul administrativ pe pagina web: Nu <br>
+Rapoartele financiare pe pagina web: Nu <br>
+
+</p>
+		</aside>
+	<section>
+		<div class="w1w">
+			<img class="nn" src="img/1d.jpg">
+			<div class="new">
+				<h2>Dr. Theodor Cebotaru</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp;Dr. Theodor Cebotaru, șef de secție Chirurgie cardiacă la Cardiac Center din cadrul SR Edinet, are cea mai mare experiență din Moldova în intervențiile pe cord bătând și plastia de valvă mitrală.</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/2d.jpg">
+			<div class="new">
+				<h2>Elena Briceag</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; șefa Secției Laboratorului clinico-biochimic, medic laborant, categorie superioară</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/3d.jpg">
+			<div class="new">
+				<h2>Ălina Bejan</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp;Vicedirector pe probleme obstetrical-ginecologice, medic obstetrician-ginecolog, categorie superioară</p>
+			</div>
+			</div>
+			<div class="w1w">
+			<img class="nn" src="img/4d.jpg">
+			<div class="new">
+				<h2>Dona Bobuţac</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Șefa Cabinetului transfuzia sângelui.</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/5d.jpg">
+			<div class="new">
+				<h2>Ala Cerbadji</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Șefa Secției morfopatologie, medic morfopatolog, categorie superioară</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/6d.jpg">
+			<div class="new">
+				<h2>Gheorghe Găină</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Medic anesteziolog-reanimatolog</p>
+			</div>
+			</div>
+			<div class="w1w">
+			<img class="nn" src="img/7d.jpg">
+			<div class="new">
+				<h2>Melania Răilean</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp;Medic neuro-pediatru, categorie superioară</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/8d.jpg">
+			<div class="new">
+				<h2>Andrei Șcureac</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Medic chirurg</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/9d.jpg">
+			<div class="new">
+				<h2>Victor Prilipco</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Șeful Secției UPUS a serviciului chirurgical-somatic, medic internist, categorie superioară</p>
+			</div>
+			</div>
+			<div class="w1w">
+			<img class="nn" src="img/10d.jpg">
+			<div class="new">
+				<h2>Constantin Ostrofeţ</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Șeful Secției recuperare și fizioterapie, medic fizioterapeut, categorie superioară</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/11d.jpg">
+			<div class="new">
+				<h2>Larisa Potacevschi</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Șefa Secției farmacie, farmacist, categorie superioară</p>
+			</div>
+		</div>
+		<div class="w1w">
+			<img class="nn" src="img/12d.jpg">
+			<div class="new">
+				<h2>Vasilii Guzun</h2>
+				<p class="new1">&nbsp;&nbsp;&nbsp; Medic terapeut categorie superioară</p>
+			</div>
+		</div>
+	</section>
+</body>
+</html>
