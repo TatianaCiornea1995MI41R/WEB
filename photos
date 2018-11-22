@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="ro">
+	<head>
+		<title>FOTO-IMSP „Spitalul Raional Edinet</title>
+		<link rel="stylesheet" href="site.css">
+		<link href="img/cr_r.ico" rel="shortcut icon" type="image/x-icon">
+	</head>
+	<body>
+		<header>
+				<div class="titlu">
+			<h1>IMSP
+				<br> 
+			„Spitalul Raional Edinet” <br></h1>
+		</div>
+	</header>
+	
+		<nav>
+		<a class="navbar" href="index.html">Acasă</a>
+		<a class="navbar" href="news.html">Medici</a>
+		<a class="navbar" href="video.html">Video</a>
+		<a class="navbar" href="photos.html">Foto</a>
+		<a class="navbar" href="contact.html">Contacte</a>
+		<a class="navbar" href="localstorage.html">Registrare</a>
+		</nav>
+		
+		<aside>
+			<header>Date generale </header>
+			<p> <br> Adresa: or. Edineț, șos. Bucovinei 1 <br>
+Tel.: 024622448 <br>
+Fax: 024623502 <br>
+E-mail: sredinet@ms.md  <br>
+Clinici universitare:Nu <br>
+Tip spital: Public <br>
+Categoria: Secundar <br>
+Acreditat: Da <br>
+Departament medicină de urgență: Nu <br>
+Ambulatoriu:Da <br>
+Nivelul centrului perinatal: 2 <br>
+Consiliul administrativ pe pagina web: Nu <br>
+Rapoartele financiare pe pagina web: Nu <br>
+
+</p>
+		</aside>
+		<section>
+			<img class="gimi" src="img/corpadministrativ.jpg"> 
+		<figcaption>Corp administrativ</figcaption> 
+		<img class="gimi" src="img/planul.jpg"> 
+		<figcaption>Planul spitalului</figcaption> 
+		<img class="gimi" src="img/intrare.jpg"> 
+		<figcaption>Intrare</figcaption>
+		<img class="gimi" src="img/saladeoperatii.jpg"> 
+		<figcaption>Sala de operații după reparație capitală</figcaption>
+		<img class="gimi" src="img/director.jpg"> 
+		<figcaption>Director IMSP SR Edineț Guțu Anatolie</figcaption>
+		<img class="gimi" src="img/sectiadeprimire.jpg"> 
+		<figcaption>Secția de internare</figcaption>
+		<img class="gimi" src="img/reparatii.jpg"> 
+		<figcaption>Reparatii capitale în blocul 2</figcaption>
+		<img class="gimi" src="img/saladeproceduri.jpg">
+		<figcaption class="ltm">Sala de proceduri din secția Îngriiri paliative</figcaption>
+		</section>
+		<footer>Designed by Tatiana Dovbus <br> USARB 2018-2019</footer>		
+	</body>
+</html>
